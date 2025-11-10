@@ -2,7 +2,7 @@ The Bitcoin Merchant Community (BMC) is an open and global community of merchant
 
 This GitHub organization contains the open-source materials the BMC is sharing with the world. It includes: 
 
-- The website code
+- [The website code](https://github.com/bitcoinmerchants/bmc-website)
 - Marketing assets
 
 Please raise issues to contribute feedback and new ideas. We especially like hearing from new merchants.
